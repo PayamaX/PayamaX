@@ -1,0 +1,12 @@
+[submodule "assets"]
+	path = assets
+	url = git@github.com:No1Payamak/assets.git
+	branch = main
+[submodule "api"]
+	path = api
+	url = git@github.com:No1Payamak/api.git
+	branch = main
+[submodule "app"]
+	path = app
+	url = git@github.com:No1Payamak/app.git
+	branch = main
