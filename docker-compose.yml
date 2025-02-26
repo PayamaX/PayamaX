@@ -14,7 +14,7 @@ services:
       - ./vols/pgdb:/var/lib/postgresql/data
 
   px:
-    image: localhost/payamax.portal:latest
+    image: ghcr.io/payamax/api:latest
     restart: always
     depends_on:
       - pg
