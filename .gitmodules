@@ -6,3 +6,7 @@
 	path = app
 	url = git@github.com:PayamaX/app.git
 	branch = main
+[submodule "backend"]
+	path = backend
+	url = git@github.com:PayamaX/backend.git
+	branch = main
